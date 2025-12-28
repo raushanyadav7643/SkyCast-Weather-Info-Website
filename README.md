@@ -33,3 +33,12 @@ API: Real-Time Weather API
 Tools: GitHub, Vite / Modern build tools
 
 # ScreenShot
+<img width="1910" height="875" alt="Image" src="https://github.com/user-attachments/assets/ae701e10-18a6-4ad5-b51b-21ee496cd09c" />
+
+<img width="1907" height="729" alt="Image" src="https://github.com/user-attachments/assets/40c4464f-cb6b-4f47-9afe-b4c80cdd8076" />
+
+<img width="1534" height="861" alt="Image" src="https://github.com/user-attachments/assets/ad553bba-12c2-4559-9b14-480dd323e686" />
+
+<img width="1528" height="869" alt="Image" src="https://github.com/user-attachments/assets/35bc5732-906d-427e-a265-1154b19f243d" />
+
+<img width="1524" height="871" alt="Image" src="https://github.com/user-attachments/assets/7024e720-9fdd-4b42-86ad-b45f810c430d" />
