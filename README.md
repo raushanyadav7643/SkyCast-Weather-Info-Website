@@ -6,9 +6,8 @@ The application allows users to search for cities and instantly view current wea
 
 SkyCast Weather is designed with a user-friendly interface, responsive layout for all devices, and optimized performance, making it suitable for daily weather checks, learning API integration, and showcasing frontend development skills.
 
-```
-🌐 Live Platform
-```
+# 🌐 Live Platform
+
 Live Website Link = https://skycast-live-weather.netlify.app
 
  # Key Features
