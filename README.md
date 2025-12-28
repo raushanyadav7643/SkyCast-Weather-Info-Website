@@ -31,3 +31,5 @@ Frontend: HTML, CSS, JavaScript / React and TypeScript (if used)
 API: Real-Time Weather API
 
 Tools: GitHub, Vite / Modern build tools
+
+# ScreenShot
