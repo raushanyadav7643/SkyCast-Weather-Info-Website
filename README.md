@@ -8,7 +8,7 @@ SkyCast Weather is designed with a user-friendly interface, responsive layout fo
 
 # 🌐 Live Platform
 
-Live Website Link:- skycast-live-weather.netlify.app
+Live Website Link:-https://skycast-live-weather.netlify.app
 
  # Key Features
 
