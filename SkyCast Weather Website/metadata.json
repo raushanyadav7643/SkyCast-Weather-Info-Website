@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast - Modern Real-Time Weather",
+  "description": "A high-performance, glassmorphism-styled weather application featuring real-time data, AI-driven weather insights, and localized forecasts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
