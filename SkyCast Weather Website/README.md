@@ -12,7 +12,7 @@ SkyCast Weather is designed with a user-friendly interface, responsive layout fo
 
 🔍 City-based search functionality
 
-🌡️ Temperature, humidity, wind speed & weather condition display
+🌡️ Temperature, humidity, wind speed & weather condition display and Live location show.
 
 📱 Fully responsive design (mobile, tablet & desktop)
 
@@ -22,7 +22,7 @@ SkyCast Weather is designed with a user-friendly interface, responsive layout fo
 
 # Tech Stack
 
-Frontend: HTML, CSS, JavaScript / React (if used)
+Frontend: HTML, CSS, JavaScript / React and TypeScript (if used)
 
 API: Real-Time Weather API
 
